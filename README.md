@@ -37,8 +37,8 @@ Let's connect and collaborate! You can reach me on:
 - GitHub: [@anushka2423](https://github.com/anushka2423)
 - Leetcode: [anushka2423](https://leetcode.com/u/anushka2423/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka1124&show_icons=true&locale=en&layout=compact" alt="anushka1124" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka1124&show_icons=true&locale=en" alt="anushka1124" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka2423&show_icons=true&locale=en&layout=compact" alt="anushka1124" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka2423&show_icons=true&locale=en" alt="anushka1124" /></p>
 
 
 Feel free to explore my projects, leave feedback, or reach out for any questions or suggestions. Looking forward to connecting with you!
