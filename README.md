@@ -29,7 +29,7 @@ I’ve shipped real features, refactored messy codebases, mentored devs, and imp
 
 ### 🚀 Software Developer — Plutonic Services (Dec 2024 – Present)
 
-- Mentored **2 junior developers** on React best practices and code reviews  
+- Mentored **junior developers** on React best practices and code reviews  
 - Improved **initial load time by 75%** using code-splitting & route-based lazy loading  
 - Built a **document management system** with drag & drop → reduced manual effort by **60%**  
 - Introduced reusable UI abstractions → cut duplicate code by **40%**  
